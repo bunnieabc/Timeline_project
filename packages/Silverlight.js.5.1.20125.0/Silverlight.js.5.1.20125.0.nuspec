@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Silverlight.js</id>
+    <version>5.1.20125.0</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://archive.msdn.microsoft.com/silverlightjs/Project/License.aspx</licenseUrl>
+    <projectUrl>http://archive.msdn.microsoft.com/silverlightjs</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Silverlight.js is a helper file which enables Web sites to create advanced Silverlight installation and instantiation experiences.</description>
+    <tags>silverlight</tags>
+  </metadata>
+</package>

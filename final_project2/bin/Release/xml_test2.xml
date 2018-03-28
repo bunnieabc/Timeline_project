@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Activity length="701" start_pos_x="-9689" start_pos_y="161" id="0" filelink="" weblink="" color="Green" start_time="1/7 01:14" end_time="1/8 00:36">我是範例喔喔</Activity>
+  <Activity length="119" start_pos_x="-10188" start_pos_y="368" id="2" filelink="" weblink="" color="Blue" start_time="1/6 08:35" end_time="1/6 12:33">HCI HW</Activity>
+  <Activity length="149" start_pos_x="-9572" start_pos_y="396" id="3" filelink="C:\Users\DELL\OneDrive\文件\8.txt" weblink="" color="Yellow" start_time="1/7 05:07" end_time="1/7 10:05">你好</Activity>
+  <Activity length="1500" start_pos_x="-9690" start_pos_y="499" id="4" filelink="" weblink="" color="Red" start_time="1/7 01:12" end_time="1/9 03:12">歡迎使用我們的軟體</Activity>
+  <Activity length="59" start_pos_x="-8978" start_pos_y="352" id="5" filelink="" weblink="" color="" start_time="1/8 00:55" end_time="1/8 02:53">2</Activity>
+  <Activity length="178" start_pos_x="546" start_pos_y="256" id="6" filelink="" weblink="" color="" start_time="1/21 06:26" end_time="1/21 12:24">XXXX</Activity>
+</Root>

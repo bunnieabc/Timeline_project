@@ -1,0 +1,130 @@
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\final_project2.exe.config
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\final_project2.exe
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\final_project2.pdb
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\OpenPop.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\Xceed.Wpf.AvalonDock.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\Xceed.Wpf.DataGrid.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\Xceed.Wpf.Toolkit.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\obj\Release\final_project2.csprojResolveAssemblyReference.cache
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\obj\Release\MainWindow.baml
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\obj\Release\MainWindow.g.cs
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\obj\Release\App.g.cs
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\obj\Release\final_project2_Content.g.cs
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\obj\Release\final_project2_MarkupCompile.cache
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\obj\Release\final_project2.g.resources
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\obj\Release\final_project2.Properties.Resources.resources
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\obj\Release\final_project2.csproj.GenerateResource.Cache
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\obj\Release\final_project2.exe
+D:\HCI\final_project2_v4\final_project2_v3\final_project2\final_project2\obj\Release\final_project2.pdb
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\final_project2.exe.config
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\obj\Release\final_project2.exe
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\obj\Release\final_project2.pdb
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\final_project2.exe
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\final_project2.pdb
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\OpenPop.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\Xceed.Wpf.DataGrid.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\obj\Release\final_project2.csprojResolveAssemblyReference.cache
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\obj\Release\MainWindow.baml
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\obj\Release\MainWindow.g.cs
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\obj\Release\App.g.cs
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\obj\Release\final_project2_Content.g.cs
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\obj\Release\final_project2_MarkupCompile.cache
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\obj\Release\final_project2.g.resources
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\obj\Release\final_project2.Properties.Resources.resources
+C:\Users\one\Downloads\final_project2_v6 (1)\final_project2\final_project2\obj\Release\final_project2.csproj.GenerateResource.Cache
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\final_project2.exe.config
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\obj\Release\final_project2.exe
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\obj\Release\final_project2.pdb
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\final_project2.exe
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\final_project2.pdb
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\OpenPop.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\Xceed.Wpf.AvalonDock.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\Xceed.Wpf.DataGrid.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\Xceed.Wpf.Toolkit.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\obj\Release\final_project2.csprojResolveAssemblyReference.cache
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\obj\Release\MainWindow.baml
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\obj\Release\MainWindow.g.cs
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\obj\Release\App.g.cs
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\obj\Release\final_project2_Content.g.cs
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\obj\Release\final_project2_MarkupCompile.cache
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\obj\Release\final_project2.g.resources
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\obj\Release\final_project2.Properties.Resources.resources
+D:\HCI\final_project2_v7\final_project2_v6\final_project2\final_project2\obj\Release\final_project2.csproj.GenerateResource.Cache
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\final_project2.exe.config
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\obj\Release\final_project2.exe
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\obj\Release\final_project2.pdb
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\final_project2.exe
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\final_project2.pdb
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\OpenPop.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\Xceed.Wpf.DataGrid.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\obj\Release\final_project2.csprojResolveAssemblyReference.cache
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\obj\Release\MainWindow.baml
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\obj\Release\MainWindow.g.cs
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\obj\Release\App.g.cs
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\obj\Release\final_project2_Content.g.cs
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\obj\Release\final_project2_MarkupCompile.cache
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\obj\Release\final_project2.g.resources
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\obj\Release\final_project2.Properties.Resources.resources
+C:\Users\one\Downloads\final_project2_v8\final_project2\final_project2\obj\Release\final_project2.csproj.GenerateResource.Cache
+D:\HCI\final_project2_v8\final_project2\final_project2\bin\Release\final_project2.exe.config
+D:\HCI\final_project2_v8\final_project2\final_project2\obj\Release\final_project2.exe
+D:\HCI\final_project2_v8\final_project2\final_project2\obj\Release\final_project2.pdb
+D:\HCI\final_project2_v8\final_project2_v8\final_project2\final_project2\bin\Release\final_project2.exe.config
+D:\HCI\final_project2_v8\final_project2_v8\final_project2\final_project2\obj\Release\final_project2.exe
+D:\HCI\final_project2_v8\final_project2_v8\final_project2\final_project2\obj\Release\final_project2.pdb
